@@ -11,4 +11,4 @@ The program automatically login to your mcgill account and try to select the cou
 If the waitlist is available, you will be immediately added to the waitlist. 
 If not, the program will report the error and quit.
 
-Using it with crontab, it can run every 15 minutes to check if the waitlist is available. 
+Deploy the code on the linux server. Then Use it with crontab, it can run every 15 minutes to check if the waitlist is available. 
